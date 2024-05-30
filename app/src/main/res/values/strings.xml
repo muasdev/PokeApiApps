@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokeApiApps</string>
+    <string name="detail_page">Detail Page</string>
+    <string name="my_pokemon_page">My Pokemon Page</string>
+</resources>
